@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cinema", "Cinema", "{FEE9C866-EE3E-419D-84EE-5C869B023E6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cinema", "Cinema\Cinema.csproj", "{54FCADA2-9165-4299-82BB-8E670017D630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FCADA2-9165-4299-82BB-8E670017D630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FCADA2-9165-4299-82BB-8E670017D630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FCADA2-9165-4299-82BB-8E670017D630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FCADA2-9165-4299-82BB-8E670017D630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{54FCADA2-9165-4299-82BB-8E670017D630} = {FEE9C866-EE3E-419D-84EE-5C869B023E6D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13BF1BC8-95FC-4465-8E1B-5FFFAF87A2CA}
+	EndGlobalSection
+EndGlobal
